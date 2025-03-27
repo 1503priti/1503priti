@@ -5,14 +5,27 @@
 	I'm Priti Kumari.
 </h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- =============================================== SUB-TITLE =========================================== -->
+<p align="left">
+	I am a passionate <strong><em> Backend Developer  </em></strong>, dedicated to developing scalable, robust, and elegant applications that live on the internet. Experienced in web-app design and backend development. Master's Degree from <strong>IIT Delhi</strong> with Electrical Engineering in 2010 and Graduated from <strong>Dr. M.G.R University</strong> with a B.Tech in Electronics and Instrumentation in 2008. I take a problem-solving approach with a goal to optimize my applications for better stability and speed. Love to work with teams.
+</p>
+<!-- =============================================== ABOUT ME =========================================== -->
+<div align="left">
+	<h2 align="left">  🚀 About Me :</h2>
+	&emsp;
+	<ul>
+		<li>🔭 I'm a Software Developer based in Hong Kong</li>
+		<li>💻 Currently working as a Backend Developer at Capgemini HK Ltd.. </li>
+		<li>📚 In my free time, I love to learn about the latest technologies</li>
+		<li>💬 Ask me about: Tech, Software, Games, Web-apps, Physics, Electrical Engineering, Distributed Systems.</li>
+		<li>👯 I’m looking to collaborate on: Open-Source Projects, Community-Good Projects, Freelancing Projects.</li>
+		<li>⚡ Fun fact: Scared to watch a horror movie at night, still love to do it 😂.</li>
+		<li>😄 Pronouns: She/Her</li>
+	</ul>
+</div>
+
+<br>
+<br>
 
 <h2>Languages and Tools</h2> 
 
