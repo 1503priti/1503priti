@@ -1,4 +1,9 @@
-## Hi there 👋
+<!-- =============================================== TITLE =========================================== -->
+<h1 align="center">
+	Hey! 
+		<img src="./Hey.gif" width="40" height="40">
+	I'm Priti Kumari.
+</h1>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -8,6 +13,19 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<h2>Languages and Tools</h2> 
+
+<div align='center'>
+<img src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white'/>
+<img src='https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white'/>
+<img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white'/>
+<img src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white'/>
+<img src='https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white'/>
+<img src='https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white'/>
+<img src='https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white'/>
+<img src='https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white'/>
+<img src='https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white'/>
 <!--
 **1503priti/1503priti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
